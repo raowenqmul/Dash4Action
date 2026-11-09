@@ -7,5 +7,7 @@ Dash4Action documents
 .. toctree::
    :maxdepth: 2
 
+   templates/index
+   resources/index
    case-study/index
-
+   workshop/index
