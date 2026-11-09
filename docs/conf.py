@@ -24,4 +24,4 @@ exclude_patterns = []
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = 'sphinx_rtd_theme'
-html_logo = 'docs/Dash4Action.svg'
+html_logo = '_static/Dash4Action.svg'
