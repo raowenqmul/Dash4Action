@@ -24,4 +24,10 @@ exclude_patterns = []
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = 'sphinx_rtd_theme'
-html_logo = '_static/Dash4ActionWhite.svg'
+#html_logo = '_static/Dash4ActionWhite.svg'
+html_logo = '_static/NetDRIVE-Dash4Action.png'
+
+html_theme_options = {
+    'logo_only': True,  # Hides the text project name, shows only the logo image
+#    'display_version': False, # Optional: also hides the version number if desired
+}
