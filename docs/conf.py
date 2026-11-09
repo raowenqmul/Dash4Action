@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'sphinx test'
+project = 'NetDRIVE Dash4Action'
 copyright = '2026, spcs-computing'
 author = 'spcs-computing'
 
