@@ -6,6 +6,5 @@ Dash4Action documents
 
 .. toctree::
    :maxdepth: 2
-   :glob:
 
-   case-study/*
+   case-study/index
