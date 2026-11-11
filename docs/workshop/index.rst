@@ -1,3 +1,5 @@
+.. NB THIS IS NOT CURRENTLY INCLUDED FROM ROOT index.rst
+
 Dash4Action Workshop
 ====================
 
@@ -12,6 +14,7 @@ https://www.sc.stfc.ac.uk/ciuk-2026/
 Workshop Adgenda
 ================
 
+Wednesday 2 December 2026
 
 ===== ================================== ===================
 Time  Activity                           Speaker/Facilitator

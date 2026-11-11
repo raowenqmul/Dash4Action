@@ -30,6 +30,7 @@ https://www.sc.stfc.ac.uk/ciuk-2026/
 Workshop Adgenda
 ================
 
+Wednesday 2 December 2026
 
 ===== ================================== ===================
 Time  Activity                           Speaker/Facilitator
@@ -49,7 +50,7 @@ Time  Activity                           Speaker/Facilitator
 .. toctree::
    :maxdepth: 2
 
-   workshop/index
+..   workshop/index
    templates/index
    resources/index
    case-study/index
