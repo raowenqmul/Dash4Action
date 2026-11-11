@@ -1,3 +1,4 @@
+.. _sec-workshop-label:
 Dash4Action Workshop
 ====================
 
