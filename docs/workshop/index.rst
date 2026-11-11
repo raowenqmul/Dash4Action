@@ -21,10 +21,15 @@ DRAFT
 ===== ================================== ===================
 Time  Activity                           Speaker/Facilitator
 ===== ================================== ===================
-13:00 Welcome                            Alex Owen
-13:05 Talk with a longer title           Alex Owen
-      over 2 lines
-14:55 Wrap-up and close		         Alex Owen
+13:00 Welcome: NetDRIVE & Dash4Action    Alex Owen, Lorna Smith
+13:15 Introduction to Green DISC         Loic Lannelongue
+13:30 Plenary Q&A and discussion	 Alex Owen
+13:45 Action Plan Drafting Session	 Dash4Action Team
+14:05 Dash4Action Case Studies           Alex Owen, Lorna Smith, Alastair Basden
+14:20 TBC: Embedded Carbon/Scope3        Michael Rudgyard
+14:35 Action Plan Drafting Session       Dash4Action Team
+14:55 Wrapup and Feedback		 Alex Owen
+15:00 Close				 -
 ===== ================================== ===================
 
 
