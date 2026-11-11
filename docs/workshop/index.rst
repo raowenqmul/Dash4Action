@@ -14,9 +14,6 @@ https://www.sc.stfc.ac.uk/ciuk-2026/
 Workshop Adgenda
 ================
 
-Comming soon...
-
-DRAFT
 
 ===== ================================== ===================
 Time  Activity                           Speaker/Facilitator
