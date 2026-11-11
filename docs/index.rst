@@ -50,7 +50,6 @@ Time  Activity                           Speaker/Facilitator
 .. toctree::
    :maxdepth: 2
 
-..   workshop/index
    templates/index
    resources/index
    case-study/index
