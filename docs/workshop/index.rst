@@ -14,18 +14,9 @@ https://www.sc.stfc.ac.uk/ciuk-2026/
 Workshop Adgenda
 ================
 
+Comming soon...
 
-=====  =====  ======
-   Inputs     Output
-------------  ------
-  A      B    A or B
-=====  =====  ======
-False  False  False
-True   False  True
-False  True   True
-True   True   True
-=====  =====  ======
-
+DRAFT
 
 ===== ================================== ===================
 Time  Activity                           Speaker/Facilitator
@@ -33,6 +24,7 @@ Time  Activity                           Speaker/Facilitator
 13:00 Welcome                            Alex Owen
 13:05 Talk with a longer title           Alex Owen
       over 2 lines
+14:55 Wrap-up and close		         Alex Owen
 ===== ================================== ===================
 
 
