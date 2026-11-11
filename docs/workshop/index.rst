@@ -1,4 +1,5 @@
 .. _sec-workshop-label:
+
 Dash4Action Workshop
 ====================
 
@@ -10,13 +11,29 @@ This is open to CIUK attendees and CIUK registration can be found here:
 https://www.sc.stfc.ac.uk/ciuk-2026/
 
 
-Adgenda
-=======
+Workshop Adgenda
+================
 
 
+=====  =====  ======
+   Inputs     Output
+------------  ------
+  A      B    A or B
+=====  =====  ======
+False  False  False
+True   False  True
+False  True   True
+True   True   True
+=====  =====  ======
 
 
-
+===== ================================== ===================
+Time  Activity                           Speaker/Facilitator
+===== ================================== ===================
+13:00 Welcome                            Alex Owen
+13:05 Talk with a longer title           Alex Owen
+      over 2 lines
+===== ================================== ===================
 
 
 .. toctree::
