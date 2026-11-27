@@ -33,6 +33,12 @@ performance in isolation. Over-specification can increase both embodied
 and operational carbon without delivering meaningful benefit to research
 outputs.
 
+Bespoke design principles are key to optimising system designs: the
+system should be designed for the research that it is intended to do,
+which will lead to optimal workloads and minimal wastage.
+Over-specifying a system is not in anyone’s interest, resulting in
+wasted compute, idle cycles and unnecessary expense and carbon.
+
 Appropriate Accelerator Choice 
 ~~~~
 
@@ -96,7 +102,7 @@ HDDs are good for:
 - Project and group storage with moderate access frequency.
 - Data repositories and services with predictable throughput
   requirements.
-- Situations where low embodied carbon and cost per TB are important
+- Situations where low embodied carbon (~8x lower than SSD per TB) and cost per TB are important
   considerations.
 
 Tape is good for:
